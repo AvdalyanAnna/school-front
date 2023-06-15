@@ -1,0 +1,21 @@
+{
+  "folders": [
+	{
+		"name": "components",
+		"path": "../nuxt3-custom-main/components"
+	},
+	{
+		"name": "layouts",
+		"path": "../nuxt3-custom-main/layouts"
+	},
+	{
+		"name": "my-app",
+		"path": "."
+	},
+	{
+		"name": "assets",
+		"path": "../nuxt3-custom-main/assets"
+	}
+],
+  "settings": {}
+}
